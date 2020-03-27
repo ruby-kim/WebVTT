@@ -9,7 +9,7 @@ Check out the details [here(wiki)](https://en.wikipedia.org/wiki/WebVTT)
   ```
   pip install flask
   ```
-<br><br>
+<br>
 
 ## Getting Started
 ```
@@ -18,11 +18,11 @@ cd WebVVT
 
 python run.py
 ```
-<br><br>
+<br>
 
 ## Result
 ![녹화_2020_03_27_16_41_03_759](https://user-images.githubusercontent.com/38516906/77733232-dbc0f180-7049-11ea-8776-3933343a76a1.gif)
 <br><br>
 
-### Note
+## Note
 Subtitles appear when you use a server.  
