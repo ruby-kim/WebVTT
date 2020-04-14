@@ -1,5 +1,5 @@
-# WebVVT
-**WebVVT(Web Video Text Tracks)** is a W3C standard for displaying timed text in connection with the HTML5 ```<track>``` element.  
+# WebVTT
+**WebVTT(Web Video Text Tracks)** is a W3C standard for displaying timed text in connection with the HTML5 ```<track>``` element.  
 Check out the details [here(wiki)](https://en.wikipedia.org/wiki/WebVTT)
 <br>
 
@@ -13,8 +13,8 @@ Check out the details [here(wiki)](https://en.wikipedia.org/wiki/WebVTT)
 
 ## Getting Started
 ```
-git clone https://github.com/kimkyeongnam/WebVVT.git
-cd WebVVT
+git clone https://github.com/kimkyeongnam/WebVTT.git
+cd WebVTT
 
 python run.py
 ```
